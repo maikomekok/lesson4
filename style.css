@@ -18,3 +18,17 @@ h1 {
 img{
 	padding-left: 25px;
 }
+p{
+	color: blue;
+}
+h6{
+	color: blue;
+	width: 75px;
+	border-bottom: 3px;
+	border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-color: blue;
+    border-style: groove;
+    font-size: 15px;
+}
