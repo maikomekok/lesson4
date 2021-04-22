@@ -32,8 +32,18 @@ h6{
     border-style: groove;
     font-size: 15px;
 }
-h5{
-    padding-left: 300px;
-    padding-top: 200px;
 
+footer{
+
+    margin-left: 0px;
+    padding-left: 250px;
+    margin-top: 200px;
+    border-top: 3px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+     border-style: groove;
+}
+h5{
+	font-size: 24px;
 }
