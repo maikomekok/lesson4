@@ -10,3 +10,11 @@ h1 {
 	border:10px,10px,10px,10px;
 	border-color:#4AC20E;
     border-style:solid;
+}
+.image-one{
+	padding-right: 25px;
+
+}
+img{
+	padding-left: 25px;
+}
